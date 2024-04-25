@@ -4,7 +4,7 @@ html {
 }
 body {
 	background: linear-gradient(-45deg, #feffdf, #ffa952, #ef5a5a, #c1224f);
-	background-size: 400% 400%;
+	background-size: 400% 450%;
 	animation: gradient 45s ease infinite;
 	font-family: 'Rubik', sans-serif;
 	text-align: center;
